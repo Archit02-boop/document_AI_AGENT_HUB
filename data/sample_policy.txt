@@ -1,0 +1,11 @@
+Company Data Protection Policy
+
+This company collects user data only after receiving user consent.
+All sensitive data must be stored securely using encryption.
+Employees are responsible for protecting customer information.
+
+The company follows a strict data privacy policy.
+User data should not be shared with unauthorized third parties.
+
+Data retention period is 2 years unless otherwise required by law.
+Any violation of this policy may lead to disciplinary action.
